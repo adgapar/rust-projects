@@ -3,5 +3,5 @@ resolver = "2"
 
 members = [
     "guessing_game",
-    "hello_cargo",
+    "hello_cargo", "variables",
 ]
