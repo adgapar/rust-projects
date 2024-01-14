@@ -1,7 +1,7 @@
 [workspace]
 resolver = "2"
 
-members = [
+members = [ "functions",
     "guessing_game",
     "hello_cargo", "variables",
 ]
